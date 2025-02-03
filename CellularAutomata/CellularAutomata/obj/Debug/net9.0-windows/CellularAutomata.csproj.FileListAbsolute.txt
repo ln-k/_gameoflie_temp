@@ -1,0 +1,14 @@
+C:\Users\PC\Documents\GitHub\CellularAutomata\CellularAutomata\bin\Debug\net9.0-windows\CellularAutomata.exe
+C:\Users\PC\Documents\GitHub\CellularAutomata\CellularAutomata\bin\Debug\net9.0-windows\CellularAutomata.deps.json
+C:\Users\PC\Documents\GitHub\CellularAutomata\CellularAutomata\bin\Debug\net9.0-windows\CellularAutomata.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\CellularAutomata\CellularAutomata\bin\Debug\net9.0-windows\CellularAutomata.dll
+C:\Users\PC\Documents\GitHub\CellularAutomata\CellularAutomata\bin\Debug\net9.0-windows\CellularAutomata.pdb
+C:\Users\PC\Documents\GitHub\CellularAutomata\CellularAutomata\obj\Debug\net9.0-windows\CellularAutomata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\CellularAutomata\CellularAutomata\obj\Debug\net9.0-windows\CellularAutomata.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\CellularAutomata\CellularAutomata\obj\Debug\net9.0-windows\CellularAutomata.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\CellularAutomata\CellularAutomata\obj\Debug\net9.0-windows\CellularAutomata.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\CellularAutomata\CellularAutomata\obj\Debug\net9.0-windows\CellularAutomata.dll
+C:\Users\PC\Documents\GitHub\CellularAutomata\CellularAutomata\obj\Debug\net9.0-windows\refint\CellularAutomata.dll
+C:\Users\PC\Documents\GitHub\CellularAutomata\CellularAutomata\obj\Debug\net9.0-windows\CellularAutomata.pdb
+C:\Users\PC\Documents\GitHub\CellularAutomata\CellularAutomata\obj\Debug\net9.0-windows\CellularAutomata.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\CellularAutomata\CellularAutomata\obj\Debug\net9.0-windows\ref\CellularAutomata.dll
